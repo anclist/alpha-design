@@ -1,0 +1,120 @@
+Josefin Sans
+CrimsonText Roman
+
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Crimson Text', serif;
+
+
+243	216	216	
+#f3d8d8 f68c9d
+
+
+238 104 143
+#ee688f
+
+
+fa fa-navicon
+
+<label for="toggle">&#9776;</label>
+<input type="checkbox" id="toggle" name="toggle">
+
+
+HOME
+WORK
+BLOG
+ABOUT
+CONTACT
+
+
+ALPHA STUDIO
+BRANDING, PHOTOGRAPHY & WEB SERVICES
+
+
+HELLO WE ARE
+ALPHA
+DESIGN STUDIO & DIGITAL AGENCY
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cilium dolore fugiat nulla pariatur. Nemo enim ipsam quia voluptas aspernatur voluptatem aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem quia sequi nesciunt. Neque sit velit esse porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur. 
+
+SOME OF OUR WORK
+
+Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia dolore eu fugiat nulla cupidatat non proident, sunt in culpa 
+
+ALL
+BRANDING
+PRINT
+PRODUCT
+WEB DESIGN
+PHOTOGRAPHY
+
+
+AVOCADO // Branding, Photography 
+BANANA // Branding, Print 
+CHERRIES // Print, Web Design 
+DURIAN // Branding, Web Design 
+ELDERBERRY // Photography, Print
+FINGER LIME // Print, Product
+
+
+SEE ALL WORKS
+
+OUR SERVICES
+
+Brand Strategy
+
+Neque porTo qmsquant et, qui ipsum quisquam quia dolor sit amet, con,ectetur, velit. sed citiia non in olupta.
+
+Web Design
+
+Qui ipsurn quisquam quia dolor sit amet, consectetur, velit, sed quia non in olupta neque porro quisquam et. 
+
+Cloud Computing
+
+Neque porro quisquam et, qui ipsum quisquam quia dolor sit amet, consectetur, velit, sed quia non in olupta. 
+
+
+Photography
+
+Qui ipsurn quisquam quia dolor sit amet, consectetur, velit, sed quia non in olupta neque porro quisquam et.
+
+
+
+FROM THE BLOG
+
+WEB DESIGN
+
+Neque porro est in culpa upidata non Proident Auqie
+
+Posted on Jan 13, 2016 // 32 Comments
+
+BRANDING
+
+Proident auqie Nascetur do proin necessitatibus
+
+Posted on Jan 11, 2016 // 18 Comments
+
+CULTURE
+
+Labortis euismod dolore vivamus proident auqie
+
+Posted on Jan 10, 2016 // 43 Comments
+
+
+Want to Work With Us?
+We always looking for new challenges and interesting porjects.
+START A PROJECT 
+
+
+OFFICE
+
+16Th Cihampelas Street Bandung 40131 West Java, Indonesia.
+
+ALPHA
+Creative Studio
+
+CONTACT
+
+Have any question? Let’s talk about your issue. We’re here to help.
+
+Copyright © 2016 Alpha Studio. All Right Reserved.
